@@ -14,6 +14,7 @@ https://squidstore.onrender.com/
 - Express
 - MongoDB
 - NodeJs
+- Tailwind CSS
 
 
 
